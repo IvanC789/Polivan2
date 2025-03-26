@@ -6,9 +6,19 @@ public class Main {
 
 		System.out.println("Polo e Iván.");
 		System.out.println("Iván.");
+
 		System.out.println("Iván2.");
 		System.out.println("Polo3.");
 		
+
+		System.out.println("Iván2.");		
+		System.out.println("Iván3.");
+		System.out.println("Iván3.");
+		System.out.println("Iván3.");
+		System.out.println("Iván3.");
+		System.out.println("Iván3.");
+
+
 
 		
 	}
